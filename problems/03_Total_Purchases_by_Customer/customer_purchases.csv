@@ -1,0 +1,5 @@
+customer_id,name,product_id,purchase_date,purchase_amount
+1,John,101,2024-01-01,50
+2,Alice,102,2024-01-02,30
+1,John,103,2024-01-03,70
+3,Bob,104,2024-01-04,60
