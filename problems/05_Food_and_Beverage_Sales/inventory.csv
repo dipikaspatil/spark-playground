@@ -1,0 +1,8 @@
+product_id,stock,warehouse
+1,50,Warehouse1
+1,20,Warehouse2
+2,40,Warehouse1
+3,30,Warehouse1
+4,20,Warehouse1
+5,10,Warehouse1
+5,15,Warehouse2
